@@ -31,7 +31,8 @@ public class Empresa {
 		this.nombre = nombre;
 		this.cuit = cuit;
 		this.empleados = empleados;
-	}
+	} 
+	
 	
 	
 }
